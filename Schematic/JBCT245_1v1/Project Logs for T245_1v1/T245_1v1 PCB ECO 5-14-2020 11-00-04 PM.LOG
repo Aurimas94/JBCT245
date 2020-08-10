@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C46-2
+Removed Pin From Net: NetName=~12V Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=R43-1
+Removed Pin From Net: NetName=HIB_1 Pin=U1-28
+Removed Pin From Net: NetName=+3V3 Pin=U12-4
+Removed Member From Class: ClassName=T245_1v1 Member=C45
+Removed Member From Class: ClassName=T245_1v1 Member=C46
+Removed Member From Class: ClassName=T245_1v1 Member=D6
+Removed Member From Class: ClassName=T245_1v1 Member=R42
+Removed Member From Class: ClassName=T245_1v1 Member=R43
+Removed Member From Class: ClassName=T245_1v1 Member=U12
+Added Pin To Net: NetName=NetC43_2 Pin=SLPD-2
+Added Pin To Net: NetName=HIB_1 Pin=U1-29

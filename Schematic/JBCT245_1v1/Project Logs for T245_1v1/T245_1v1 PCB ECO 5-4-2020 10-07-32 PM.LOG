@@ -1,0 +1,1099 @@
+Added Component: Designator=AC_IN1(HDR1X4_3M96V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9492020"; VariantName = "[No Variations]"
+Added Component: Designator=BTN_DN(PB-6X6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2610957"; VariantName = "[No Variations]"
+Added Component: Designator=BTN_OK(PB-6X6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2610957"; VariantName = "[No Variations]"
+Added Component: Designator=BTN_ON/OFF(PB-6X6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2610957"; VariantName = "[No Variations]"
+Added Component: Designator=BTN_UP(PB-6X6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2610957"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2496890"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2496890"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013399"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C37(10X10.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2611378"; VariantName = "[No Variations]"
+Added Component: Designator=C38(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759166"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAPC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9406182"; VariantName = "[No Variations]"
+Added Component: Designator=C43(CAPC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013482"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CAPC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013482"; VariantName = "[No Variations]"
+Added Component: Designator=C45(CAPC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013482"; VariantName = "[No Variations]"
+Added Component: Designator=C46(CAPC2012N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013482"; VariantName = "[No Variations]"
+Added Component: Designator=CB1(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB2(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB3(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB4(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB5(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB6(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB7(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB8(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB9(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB10(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB11(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB12(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD-80C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2690028"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOT23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part number 1"; Value = "2101833"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD-80C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2690028"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOT23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part number 1"; Value = "2101833"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SOD-123F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2677464"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SOD-123F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2677464"; VariantName = "[No Variations]"
+Added Component: Designator=Earth1(Blade header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "892609"; VariantName = "[No Variations]"
+Added Component: Designator=Earth2(Blade header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "892609"; VariantName = "[No Variations]"
+Added Component: Designator=ENC1(PEC12R-4XXXF-SXXXX_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2381866"; VariantName = "[No Variations]"
+Added Component: Designator=F1(1206F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2850026"; VariantName = "[No Variations]"
+Added Component: Designator=F2(1206F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2850026"; VariantName = "[No Variations]"
+Added Component: Designator=F3(1206F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1652166"; VariantName = "[No Variations]"
+Added Component: Designator=F4(1206F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1652166"; VariantName = "[No Variations]"
+Added Component: Designator=L1(0603L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1515679"; VariantName = "[No Variations]"
+Added Component: Designator=L2(LL0603\2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1515745"; VariantName = "[No Variations]"
+Added Component: Designator=L3(LL0603\2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1515745"; VariantName = "[No Variations]"
+Added Component: Designator=L4(LL0603\2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1515745"; VariantName = "[No Variations]"
+Added Component: Designator=L5(LL0603\2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1515745"; VariantName = "[No Variations]"
+Added Component: Designator=Mains_IN(HDR1X2_3M96V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9492003"; VariantName = "[No Variations]"
+Added Component: Designator=PROG(B6B_SMT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9689567"; VariantName = "[No Variations]"
+Added Component: Designator=PS1(VCE05US03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2671557"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(PG-TDSON-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Kitron"; Value = "4084118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2443421"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(PG-TDSON-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Kitron"; Value = "4084118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2443421"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(PG-TDSON-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Kitron"; Value = "4084118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2443421"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(PG-TDSON-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Kitron"; Value = "4084118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2443421"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447226RL"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447226RL"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2861974"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2861974"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2694448"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2694448"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2694448"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2694448"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2861974"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2694448"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RESC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2694448"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447230"; VariantName = "[No Variations]"
+Added Component: Designator=SLPD(HDR1X2_2.54mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1248140"; VariantName = "[No Variations]"
+Added Component: Designator=ST1(B8B-XH-A (LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1516284"; VariantName = "[No Variations]"
+Added Component: Designator=ST7920 GLCD (128×64)(B8B-XH-A (LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1516284"; VariantName = "[No Variations]"
+Added Component: Designator=T245_Out_1(HDR1X4_3M96V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Aproved"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "12/15/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B4P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "J0000151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Connector\Wire to Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.96MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9492020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "HDR 4"; VariantName = "[No Variations]"
+Added Component: Designator=T245_Out_2(HDR1X4_3M96V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Aproved"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data"; Value = "12/15/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B4P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "J0000151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Connector\Wire to Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.96MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9492020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "HDR 4"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LQFP-64N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Kitron"; Value = "4110530"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2488309"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1579573"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2057423"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2395899"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2515622"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2057423"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2395899"; VariantName = "[No Variations]"
+Added Component: Designator=U8(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2515622"; VariantName = "[No Variations]"
+Added Component: Designator=U9(SMDIP-6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2322525"; VariantName = "[No Variations]"
+Added Component: Designator=U10(SMDIP-6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2322525"; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3014097"; VariantName = "[No Variations]"
+Added Component: Designator=U12(SOP-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3014097"; VariantName = "[No Variations]"
+Added Component: Designator=X1(2SMX-3SMXB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1611803"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=BTN_DN-1
+Added Pin To Net: NetName=+3V3 Pin=BTN_DN-4
+Added Pin To Net: NetName=+3V3 Pin=BTN_OK-1
+Added Pin To Net: NetName=+3V3 Pin=BTN_OK-4
+Added Pin To Net: NetName=+3V3 Pin=BTN_ON/OFF-1
+Added Pin To Net: NetName=+3V3 Pin=BTN_ON/OFF-4
+Added Pin To Net: NetName=+3V3 Pin=BTN_UP-1
+Added Pin To Net: NetName=+3V3 Pin=BTN_UP-4
+Added Pin To Net: NetName=+3V3 Pin=C8-2
+Added Pin To Net: NetName=+3V3 Pin=C13-2
+Added Pin To Net: NetName=+3V3 Pin=C14-2
+Added Pin To Net: NetName=+3V3 Pin=C15-2
+Added Pin To Net: NetName=+3V3 Pin=C16-2
+Added Pin To Net: NetName=+3V3 Pin=C17-2
+Added Pin To Net: NetName=+3V3 Pin=C18-2
+Added Pin To Net: NetName=+3V3 Pin=C19-2
+Added Pin To Net: NetName=+3V3 Pin=C20-2
+Added Pin To Net: NetName=+3V3 Pin=C22-2
+Added Pin To Net: NetName=+3V3 Pin=C25-1
+Added Pin To Net: NetName=+3V3 Pin=C29-2
+Added Pin To Net: NetName=+3V3 Pin=C32-1
+Added Pin To Net: NetName=+3V3 Pin=C37-1
+Added Pin To Net: NetName=+3V3 Pin=C38-2
+Added Pin To Net: NetName=+3V3 Pin=CB1-1
+Added Pin To Net: NetName=+3V3 Pin=CB3-2
+Added Pin To Net: NetName=+3V3 Pin=CB9-1
+Added Pin To Net: NetName=+3V3 Pin=CB11-1
+Added Pin To Net: NetName=+3V3 Pin=ENC1-4
+Added Pin To Net: NetName=+3V3 Pin=L1-2
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R9-2
+Added Pin To Net: NetName=+3V3 Pin=R11-2
+Added Pin To Net: NetName=+3V3 Pin=R12-2
+Added Pin To Net: NetName=+3V3 Pin=R14-2
+Added Pin To Net: NetName=+3V3 Pin=R15-2
+Added Pin To Net: NetName=+3V3 Pin=R20-1
+Added Pin To Net: NetName=+3V3 Pin=R26-1
+Added Pin To Net: NetName=+3V3 Pin=R31-2
+Added Pin To Net: NetName=+3V3 Pin=R35-2
+Added Pin To Net: NetName=+3V3 Pin=ST1-2
+Added Pin To Net: NetName=+3V3 Pin=ST7920 GLCD (128×64)-2
+Added Pin To Net: NetName=+3V3 Pin=ST7920 GLCD (128×64)-7
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U1-19
+Added Pin To Net: NetName=+3V3 Pin=U1-32
+Added Pin To Net: NetName=+3V3 Pin=U1-48
+Added Pin To Net: NetName=+3V3 Pin=U1-64
+Added Pin To Net: NetName=+3V3 Pin=U2-8
+Added Pin To Net: NetName=+3V3 Pin=U3-8
+Added Pin To Net: NetName=+3V3 Pin=U5-4
+Added Pin To Net: NetName=+3V3 Pin=U6-8
+Added Pin To Net: NetName=+3V3 Pin=U8-4
+Added Pin To Net: NetName=+3V3 Pin=U11-4
+Added Pin To Net: NetName=+3V3 Pin=U12-4
+Added Net: Name=+3V3
+Added Pin To Net: NetName=AC_GND Pin=AC_IN1-1
+Added Pin To Net: NetName=AC_GND Pin=AC_IN1-4
+Added Pin To Net: NetName=AC_GND Pin=CB5-2
+Added Pin To Net: NetName=AC_GND Pin=CB7-2
+Added Pin To Net: NetName=AC_GND Pin=F4-1
+Added Pin To Net: NetName=AC_GND Pin=R33-1
+Added Pin To Net: NetName=AC_GND Pin=R37-1
+Added Pin To Net: NetName=AC_GND Pin=R39-2
+Added Pin To Net: NetName=AC_GND Pin=T245_Out_1-2
+Added Pin To Net: NetName=AC_GND Pin=T245_Out_2-2
+Added Net: Name=AC_GND
+Added Pin To Net: NetName=BTN_DN Pin=BTN_DN-2
+Added Pin To Net: NetName=BTN_DN Pin=BTN_DN-3
+Added Pin To Net: NetName=BTN_DN Pin=C2-1
+Added Pin To Net: NetName=BTN_DN Pin=R3-2
+Added Net: Name=BTN_DN
+Added Pin To Net: NetName=BTN_OK Pin=BTN_OK-2
+Added Pin To Net: NetName=BTN_OK Pin=BTN_OK-3
+Added Pin To Net: NetName=BTN_OK Pin=C4-1
+Added Pin To Net: NetName=BTN_OK Pin=R5-2
+Added Net: Name=BTN_OK
+Added Pin To Net: NetName=BTN_ON/OFF Pin=BTN_ON/OFF-2
+Added Pin To Net: NetName=BTN_ON/OFF Pin=BTN_ON/OFF-3
+Added Pin To Net: NetName=BTN_ON/OFF Pin=C5-1
+Added Pin To Net: NetName=BTN_ON/OFF Pin=R6-2
+Added Net: Name=BTN_ON/OFF
+Added Pin To Net: NetName=BTN_Rot Pin=C10-1
+Added Pin To Net: NetName=BTN_Rot Pin=ENC1-5
+Added Pin To Net: NetName=BTN_Rot Pin=R17-2
+Added Pin To Net: NetName=BTN_Rot Pin=U1-39
+Added Net: Name=BTN_Rot
+Added Pin To Net: NetName=BTN_UP Pin=BTN_UP-2
+Added Pin To Net: NetName=BTN_UP Pin=BTN_UP-3
+Added Pin To Net: NetName=BTN_UP Pin=C1-1
+Added Pin To Net: NetName=BTN_UP Pin=R2-2
+Added Net: Name=BTN_UP
+Added Pin To Net: NetName=CS_1 Pin=U1-50
+Added Pin To Net: NetName=CS_1 Pin=U5-6
+Added Net: Name=CS_1
+Added Pin To Net: NetName=CS_2 Pin=U1-33
+Added Pin To Net: NetName=CS_2 Pin=U8-6
+Added Net: Name=CS_2
+Added Pin To Net: NetName=Current_1 Pin=C23-1
+Added Pin To Net: NetName=Current_1 Pin=U1-14
+Added Net: Name=Current_1
+Added Pin To Net: NetName=Current_2 Pin=C30-1
+Added Pin To Net: NetName=Current_2 Pin=U1-15
+Added Net: Name=Current_2
+Added Pin To Net: NetName=Drive_1 Pin=U1-61
+Added Net: Name=Drive_1
+Added Pin To Net: NetName=Drive_2 Pin=U1-62
+Added Net: Name=Drive_2
+Added Pin To Net: NetName=ENC_A Pin=C9-1
+Added Pin To Net: NetName=ENC_A Pin=R12-1
+Added Pin To Net: NetName=ENC_A Pin=R13-1
+Added Pin To Net: NetName=ENC_A Pin=U1-16
+Added Net: Name=ENC_A
+Added Pin To Net: NetName=ENC_B Pin=C11-1
+Added Pin To Net: NetName=ENC_B Pin=R11-1
+Added Pin To Net: NetName=ENC_B Pin=R16-1
+Added Pin To Net: NetName=ENC_B Pin=U1-17
+Added Net: Name=ENC_B
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=GND Pin=CB2-1
+Added Pin To Net: NetName=GND Pin=CB4-1
+Added Pin To Net: NetName=GND Pin=CB6-1
+Added Pin To Net: NetName=GND Pin=CB8-1
+Added Pin To Net: NetName=GND Pin=CB10-2
+Added Pin To Net: NetName=GND Pin=CB12-2
+Added Pin To Net: NetName=GND Pin=D2-3
+Added Pin To Net: NetName=GND Pin=D4-3
+Added Pin To Net: NetName=GND Pin=Earth1-1
+Added Pin To Net: NetName=GND Pin=Earth1-1
+Added Pin To Net: NetName=GND Pin=Earth1-1
+Added Pin To Net: NetName=GND Pin=Earth2-1
+Added Pin To Net: NetName=GND Pin=Earth2-1
+Added Pin To Net: NetName=GND Pin=Earth2-1
+Added Pin To Net: NetName=GND Pin=ENC1-2
+Added Pin To Net: NetName=GND Pin=F4-2
+Added Pin To Net: NetName=GND Pin=PROG-5
+Added Pin To Net: NetName=GND Pin=PROG-6
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R43-1
+Added Pin To Net: NetName=GND Pin=ST1-1
+Added Pin To Net: NetName=GND Pin=ST7920 GLCD (128×64)-8
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Net: Name=GND
+Added Pin To Net: NetName=HIB_1 Pin=C44-1
+Added Pin To Net: NetName=HIB_1 Pin=R41-2
+Added Pin To Net: NetName=HIB_1 Pin=U1-28
+Added Pin To Net: NetName=HIB_1 Pin=U11-3
+Added Net: Name=HIB_1
+Added Pin To Net: NetName=HIB_2 Pin=C46-1
+Added Pin To Net: NetName=HIB_2 Pin=R43-2
+Added Pin To Net: NetName=HIB_2 Pin=U1-29
+Added Pin To Net: NetName=HIB_2 Pin=U12-3
+Added Net: Name=HIB_2
+Added Pin To Net: NetName=MISO_1 Pin=U5-7
+Added Pin To Net: NetName=MISO_1 Pin=U8-7
+Added Net: Name=MISO_1
+Added Pin To Net: NetName=MOSI_1 Pin=U1-53
+Added Net: Name=MOSI_1
+Added Pin To Net: NetName=MOSI_2 Pin=U1-36
+Added Net: Name=MOSI_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=CB4-2
+Added Pin To Net: NetName=NetC12_2 Pin=U1-30
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=D1-2
+Added Pin To Net: NetName=NetC21_1 Pin=Q2-3
+Added Pin To Net: NetName=NetC21_1 Pin=Q2-3
+Added Pin To Net: NetName=NetC21_1 Pin=Q2-3
+Added Pin To Net: NetName=NetC21_1 Pin=Q2-3
+Added Pin To Net: NetName=NetC21_1 Pin=Q2-3
+Added Pin To Net: NetName=NetC21_1 Pin=Q3-3
+Added Pin To Net: NetName=NetC21_1 Pin=Q3-3
+Added Pin To Net: NetName=NetC21_1 Pin=Q3-3
+Added Pin To Net: NetName=NetC21_1 Pin=Q3-3
+Added Pin To Net: NetName=NetC21_1 Pin=Q3-3
+Added Pin To Net: NetName=NetC21_1 Pin=U4-3
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=D1-1
+Added Pin To Net: NetName=NetC21_2 Pin=Q2-1
+Added Pin To Net: NetName=NetC21_2 Pin=Q3-1
+Added Pin To Net: NetName=NetC21_2 Pin=U4-4
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_1 Pin=C26-1
+Added Pin To Net: NetName=NetC24_1 Pin=D2-2
+Added Pin To Net: NetName=NetC24_1 Pin=L2-1
+Added Pin To Net: NetName=NetC24_1 Pin=U5-3
+Added Net: Name=NetC24_1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=C27-2
+Added Pin To Net: NetName=NetC26_2 Pin=D2-1
+Added Pin To Net: NetName=NetC26_2 Pin=L3-2
+Added Pin To Net: NetName=NetC26_2 Pin=U5-2
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=D3-2
+Added Pin To Net: NetName=NetC28_1 Pin=Q5-3
+Added Pin To Net: NetName=NetC28_1 Pin=Q5-3
+Added Pin To Net: NetName=NetC28_1 Pin=Q5-3
+Added Pin To Net: NetName=NetC28_1 Pin=Q5-3
+Added Pin To Net: NetName=NetC28_1 Pin=Q5-3
+Added Pin To Net: NetName=NetC28_1 Pin=Q6-3
+Added Pin To Net: NetName=NetC28_1 Pin=Q6-3
+Added Pin To Net: NetName=NetC28_1 Pin=Q6-3
+Added Pin To Net: NetName=NetC28_1 Pin=Q6-3
+Added Pin To Net: NetName=NetC28_1 Pin=Q6-3
+Added Pin To Net: NetName=NetC28_1 Pin=U7-3
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=D3-1
+Added Pin To Net: NetName=NetC28_2 Pin=Q5-1
+Added Pin To Net: NetName=NetC28_2 Pin=Q6-1
+Added Pin To Net: NetName=NetC28_2 Pin=U7-4
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=C33-1
+Added Pin To Net: NetName=NetC31_1 Pin=D4-2
+Added Pin To Net: NetName=NetC31_1 Pin=L4-1
+Added Pin To Net: NetName=NetC31_1 Pin=U8-3
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C34-2
+Added Pin To Net: NetName=NetC33_2 Pin=D4-1
+Added Pin To Net: NetName=NetC33_2 Pin=L5-2
+Added Pin To Net: NetName=NetC33_2 Pin=U8-2
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=PS1-3
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=F3-2
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=NetC43_1 Pin=R40-2
+Added Pin To Net: NetName=NetC43_1 Pin=U11-1
+Added Net: Name=NetC43_1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=SLPD-1
+Added Pin To Net: NetName=NetC43_2 Pin=U11-2
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetC45_1 Pin=C45-1
+Added Pin To Net: NetName=NetC45_1 Pin=R42-2
+Added Pin To Net: NetName=NetC45_1 Pin=U12-1
+Added Net: Name=NetC45_1
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=NetC45_2 Pin=SLPD-2
+Added Pin To Net: NetName=NetC45_2 Pin=U12-2
+Added Net: Name=NetC45_2
+Added Pin To Net: NetName=NetCB1_2 Pin=CB1-2
+Added Pin To Net: NetName=NetCB1_2 Pin=CB2-2
+Added Pin To Net: NetName=NetCB1_2 Pin=R4-1
+Added Net: Name=NetCB1_2
+Added Pin To Net: NetName=NetCB3_1 Pin=CB3-1
+Added Pin To Net: NetName=NetCB3_1 Pin=PROG-3
+Added Net: Name=NetCB3_1
+Added Pin To Net: NetName=NetCB6_2 Pin=CB6-2
+Added Pin To Net: NetName=NetCB6_2 Pin=R20-2
+Added Pin To Net: NetName=NetCB6_2 Pin=U3-6
+Added Net: Name=NetCB6_2
+Added Pin To Net: NetName=NetCB8_2 Pin=CB8-2
+Added Pin To Net: NetName=NetCB8_2 Pin=R26-2
+Added Pin To Net: NetName=NetCB8_2 Pin=U6-6
+Added Net: Name=NetCB8_2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R40-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R42-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetENC1_1 Pin=ENC1-1
+Added Pin To Net: NetName=NetENC1_1 Pin=R13-2
+Added Net: Name=NetENC1_1
+Added Pin To Net: NetName=NetENC1_3 Pin=ENC1-3
+Added Pin To Net: NetName=NetENC1_3 Pin=R16-2
+Added Net: Name=NetENC1_3
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=Q2-2
+Added Pin To Net: NetName=NetF1_1 Pin=Q2-2
+Added Pin To Net: NetName=NetF1_1 Pin=Q2-2
+Added Pin To Net: NetName=NetF1_1 Pin=R18-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF2_1 Pin=F2-1
+Added Pin To Net: NetName=NetF2_1 Pin=Q5-2
+Added Pin To Net: NetName=NetF2_1 Pin=Q5-2
+Added Pin To Net: NetName=NetF2_1 Pin=Q5-2
+Added Pin To Net: NetName=NetF2_1 Pin=R24-1
+Added Net: Name=NetF2_1
+Added Pin To Net: NetName=NetF3_1 Pin=F3-1
+Added Pin To Net: NetName=NetF3_1 Pin=PS1-4
+Added Net: Name=NetF3_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-13
+Added Net: Name=NetL1_1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetMains_IN_1 Pin=Mains_IN-1
+Added Pin To Net: NetName=NetMains_IN_1 Pin=PS1-1
+Added Net: Name=NetMains_IN_1
+Added Pin To Net: NetName=NetMains_IN_2 Pin=Mains_IN-2
+Added Pin To Net: NetName=NetMains_IN_2 Pin=PS1-2
+Added Net: Name=NetMains_IN_2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=ST7920 GLCD (128×64)-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R18-2
+Added Pin To Net: NetName=NetQ3_2 Pin=U3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=U3-2
+Added Net: Name=NetQ3_2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_3 Pin=U4-2
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R24-2
+Added Pin To Net: NetName=NetQ6_2 Pin=U6-1
+Added Pin To Net: NetName=NetQ6_2 Pin=U6-2
+Added Net: Name=NetQ6_2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ7_3 Pin=U7-2
+Added Net: Name=NetQ7_3
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-60
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR19_1 Pin=U4-1
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR23_2 Pin=U3-7
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR25_1 Pin=U7-1
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR29_2 Pin=U6-7
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=U9-1
+Added Net: Name=NetR32_2
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR33_2 Pin=U9-2
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=U10-1
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR37_2 Pin=U10-2
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=NetT245_Out_1_1 Pin=T245_Out_1-1
+Added Pin To Net: NetName=NetT245_Out_1_1 Pin=U3-3
+Added Pin To Net: NetName=NetT245_Out_1_1 Pin=U3-4
+Added Net: Name=NetT245_Out_1_1
+Added Pin To Net: NetName=NetT245_Out_2_1 Pin=T245_Out_2-1
+Added Pin To Net: NetName=NetT245_Out_2_1 Pin=U6-3
+Added Pin To Net: NetName=NetT245_Out_2_1 Pin=U6-4
+Added Net: Name=NetT245_Out_2_1
+Added Pin To Net: NetName=nRST Pin=C3-2
+Added Pin To Net: NetName=nRST Pin=PROG-4
+Added Pin To Net: NetName=nRST Pin=R1-1
+Added Pin To Net: NetName=nRST Pin=U1-7
+Added Net: Name=nRST
+Added Pin To Net: NetName=SCK_1 Pin=U1-51
+Added Pin To Net: NetName=SCK_1 Pin=U5-5
+Added Net: Name=SCK_1
+Added Pin To Net: NetName=SCK_2 Pin=U1-34
+Added Pin To Net: NetName=SCK_2 Pin=U8-5
+Added Net: Name=SCK_2
+Added Pin To Net: NetName=SCL Pin=R14-1
+Added Pin To Net: NetName=SCL Pin=U1-58
+Added Pin To Net: NetName=SCL Pin=U2-6
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=R15-1
+Added Pin To Net: NetName=SDA Pin=U1-59
+Added Pin To Net: NetName=SDA Pin=U2-5
+Added Net: Name=SDA
+Added Pin To Net: NetName=SWCLK Pin=PROG-2
+Added Pin To Net: NetName=SWCLK Pin=R10-2
+Added Pin To Net: NetName=SWCLK Pin=U1-49
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWD Pin=PROG-1
+Added Pin To Net: NetName=SWD Pin=R9-1
+Added Pin To Net: NetName=SWD Pin=U1-46
+Added Net: Name=SWD
+Added Pin To Net: NetName=TC+ Pin=L4-2
+Added Pin To Net: NetName=TC+ Pin=T245_Out_2-4
+Added Net: Name=TC+
+Added Pin To Net: NetName=TC- Pin=CB7-1
+Added Pin To Net: NetName=TC- Pin=L5-1
+Added Pin To Net: NetName=TC- Pin=T245_Out_2-3
+Added Net: Name=TC-
+Added Pin To Net: NetName=TFT_BCLT Pin=ST1-8
+Added Pin To Net: NetName=TFT_BCLT Pin=U1-24
+Added Net: Name=TFT_BCLT
+Added Pin To Net: NetName=TFT_CS Pin=ST1-7
+Added Pin To Net: NetName=TFT_CS Pin=ST7920 GLCD (128×64)-3
+Added Pin To Net: NetName=TFT_CS Pin=U1-20
+Added Net: Name=TFT_CS
+Added Pin To Net: NetName=TFT_D/I Pin=ST1-6
+Added Pin To Net: NetName=TFT_D/I Pin=ST7920 GLCD (128×64)-6
+Added Pin To Net: NetName=TFT_D/I Pin=U1-25
+Added Net: Name=TFT_D/I
+Added Pin To Net: NetName=TFT_E Pin=ST1-4
+Added Pin To Net: NetName=TFT_E Pin=ST7920 GLCD (128×64)-4
+Added Pin To Net: NetName=TFT_E Pin=U1-23
+Added Net: Name=TFT_E
+Added Pin To Net: NetName=TFT_RST Pin=ST1-5
+Added Pin To Net: NetName=TFT_RST Pin=ST7920 GLCD (128×64)-5
+Added Pin To Net: NetName=TFT_RST Pin=U1-22
+Added Net: Name=TFT_RST
+Added Pin To Net: NetName=TFT_SCK Pin=ST1-3
+Added Pin To Net: NetName=TFT_SCK Pin=U1-21
+Added Net: Name=TFT_SCK
+Added Pin To Net: NetName=XTAL1 Pin=C6-2
+Added Pin To Net: NetName=XTAL1 Pin=U1-5
+Added Pin To Net: NetName=XTAL1 Pin=X1-1
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=C7-2
+Added Pin To Net: NetName=XTAL2 Pin=U1-6
+Added Pin To Net: NetName=XTAL2 Pin=X1-3
+Added Net: Name=XTAL2
+Added Pin To Net: NetName=ZC_1 Pin=C40-1
+Added Pin To Net: NetName=ZC_1 Pin=CB9-2
+Added Pin To Net: NetName=ZC_1 Pin=R31-1
+Added Pin To Net: NetName=ZC_1 Pin=U1-37
+Added Pin To Net: NetName=ZC_1 Pin=U9-5
+Added Net: Name=ZC_1
+Added Pin To Net: NetName=ZC_2 Pin=C42-1
+Added Pin To Net: NetName=ZC_2 Pin=CB11-2
+Added Pin To Net: NetName=ZC_2 Pin=R35-1
+Added Pin To Net: NetName=ZC_2 Pin=U1-38
+Added Pin To Net: NetName=ZC_2 Pin=U10-5
+Added Net: Name=ZC_2
+Added Pin To Net: NetName=ZC_INV_1 Pin=C39-1
+Added Pin To Net: NetName=ZC_INV_1 Pin=CB10-1
+Added Pin To Net: NetName=ZC_INV_1 Pin=R34-2
+Added Pin To Net: NetName=ZC_INV_1 Pin=U1-26
+Added Pin To Net: NetName=ZC_INV_1 Pin=U9-4
+Added Net: Name=ZC_INV_1
+Added Pin To Net: NetName=ZC_INV_2 Pin=C41-1
+Added Pin To Net: NetName=ZC_INV_2 Pin=CB12-1
+Added Pin To Net: NetName=ZC_INV_2 Pin=R38-2
+Added Pin To Net: NetName=ZC_INV_2 Pin=U1-27
+Added Pin To Net: NetName=ZC_INV_2 Pin=U10-4
+Added Net: Name=ZC_INV_2
+Added Pin To Net: NetName=~12V Pin=AC_IN1-2
+Added Pin To Net: NetName=~12V Pin=D6-2
+Added Pin To Net: NetName=~12V Pin=F2-2
+Added Net: Name=~12V
+Added Pin To Net: NetName=~24V Pin=AC_IN1-3
+Added Pin To Net: NetName=~24V Pin=D5-2
+Added Pin To Net: NetName=~24V Pin=F1-2
+Added Pin To Net: NetName=~24V Pin=R32-1
+Added Net: Name=~24V
+Added Class: Name=MCU
+Added Class: Name=Power_Driver_1
+Added Class: Name=Power_Driver_2
+Added Class: Name=Power_Supply
+Added Class: Name=T245_1v1
+Added Room: Name=MCU
+Added Room: Name=Power_Driver_1
+Added Room: Name=Power_Driver_2
+Added Room: Name=Power_Supply
+Added Room: Name=T245_1v1

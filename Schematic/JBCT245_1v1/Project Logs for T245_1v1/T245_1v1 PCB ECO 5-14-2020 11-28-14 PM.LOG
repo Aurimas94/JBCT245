@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+3V3 Pin=CB3-2
+Removed Member From Class: ClassName=MCU Member=CB3
+Added Pin To Net: NetName=+3V3 Pin=PROG-3

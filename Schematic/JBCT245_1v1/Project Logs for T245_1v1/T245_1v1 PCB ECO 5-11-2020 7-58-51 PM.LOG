@@ -1,0 +1,25 @@
+Added Component: Designator=CB5(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB7(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB13(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=CB14(CB_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO_2 Pin=CB5-2
+Added Pin To Net: NetName=MISO_2 Pin=CB7-1
+Added Pin To Net: NetName=MOSI_2 Pin=CB7-2
+Added Pin To Net: NetName=MISO_2 Pin=CB13-1
+Added Pin To Net: NetName=MOSI_1 Pin=CB13-2
+Added Pin To Net: NetName=MISO_2 Pin=CB14-2
+Added Pin To Net: NetName=NetCB5_1 Pin=CB5-1
+Added Pin To Net: NetName=NetCB5_1 Pin=U1-35
+Added Net: Name=NetCB5_1
+Added Member To Class: ClassName=MCU Member=Component CB5 Closed
+Added Member To Class: ClassName=MCU Member=Component CB7 Open
+Added Member To Class: ClassName=MCU Member=Component CB13 Open
+Added Member To Class: ClassName=MCU Member=Component CB14 Closed

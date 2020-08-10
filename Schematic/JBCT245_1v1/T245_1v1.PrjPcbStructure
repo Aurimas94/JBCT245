@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=T245_1v1.SchDoc
+Record=SheetSymbol|SourceDocument=T245_1v1.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=T245_1v1.SchDoc|Designator=Power_Driver_1|SchDesignator=Power_Driver_1|FileName=Power_Driver_1.SchDoc|SymbolType=Normal|RawFileName=Power_Driver_1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=T245_1v1.SchDoc|Designator=Power_Driver_2|SchDesignator=Power_Driver_2|FileName=Power_Driver_2.SchDoc|SymbolType=Normal|RawFileName=Power_Driver_2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=T245_1v1.SchDoc|Designator=Power_Supply|SchDesignator=Power_Supply|FileName=Power_Supply.SchDoc|SymbolType=Normal|RawFileName=Power_Supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

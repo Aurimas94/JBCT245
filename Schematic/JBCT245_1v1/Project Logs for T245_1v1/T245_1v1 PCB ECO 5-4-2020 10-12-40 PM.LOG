@@ -1,0 +1,21 @@
+Added Component: Designator=R19(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2074301"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2074301"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2074301"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=+3V3 Pin=R19-2
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=+3V3 Pin=R25-2
+Added Pin To Net: NetName=NetLED1_1 Pin=R30-1
+Added Pin To Net: NetName=+3V3 Pin=R30-2
+Added Member To Class: ClassName=Power_Driver_1 Member=Component R19 68R
+Added Member To Class: ClassName=Power_Driver_2 Member=Component R25 68R
+Added Member To Class: ClassName=Power_Supply Member=Component R30 68R

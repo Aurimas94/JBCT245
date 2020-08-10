@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetCB14_1 Pin=CB14-1
+Added Pin To Net: NetName=NetCB14_1 Pin=U1-52
+Added Net: Name=NetCB14_1
+Added Room: Name=MCU
+Added Room: Name=Power_Driver_1
+Added Room: Name=Power_Driver_2
+Added Room: Name=Power_Supply
+Added Room: Name=T245_1v1

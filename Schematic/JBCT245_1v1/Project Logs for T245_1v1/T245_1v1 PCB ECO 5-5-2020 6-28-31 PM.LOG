@@ -1,0 +1,16 @@
+Added Component: Designator=L6(LL0805\2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1515661"; VariantName = "[No Variations]"
+Added Component: Designator=L7(1812_CM_WE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2249865"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC36_2 Pin=L6-1
+Added Pin To Net: NetName=+3V3 Pin=L6-2
+Added Pin To Net: NetName=NetC35_1 Pin=L7-1
+Added Pin To Net: NetName=GND Pin=L7-2
+Added Pin To Net: NetName=NetC36_2 Pin=L7-3
+Added Pin To Net: NetName=NetC35_2 Pin=L7-4
+Added Member To Class: ClassName=Power_Supply Member=Component L6 220R 2A
+Added Member To Class: ClassName=Power_Supply Member=Component L7 300nH 2A

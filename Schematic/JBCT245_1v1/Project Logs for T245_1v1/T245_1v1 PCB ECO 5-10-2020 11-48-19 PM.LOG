@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=ENC1-6
+Removed Pin From Net: NetName=GND Pin=ENC1-7
+Removed Pin From Net: NetName=NetF1_1 Pin=R18-1
+Removed Pin From Net: NetName=NetQ3_2 Pin=R18-2
+Removed Pin From Net: NetName=NetF2_1 Pin=R24-1
+Removed Pin From Net: NetName=NetQ6_2 Pin=R24-2
+Removed Member From Class: ClassName=Power_Driver_1 Member=R18
+Removed Member From Class: ClassName=Power_Driver_2 Member=R24

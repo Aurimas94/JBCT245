@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BTN_UP Pin=U1-8
+Added Pin To Net: NetName=BTN_DN Pin=U1-9
+Added Pin To Net: NetName=BTN_OK Pin=U1-10
+Added Pin To Net: NetName=BTN_ON/OFF Pin=U1-11

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TC_NEG_1 Pin=CB5-1
+Removed Pin From Net: NetName=TC_NEG_1 Pin=CB5-2
+Removed Pin From Net: NetName=TC_NEG_1 Pin=CB7-1
+Removed Pin From Net: NetName=TC_NEG_1 Pin=CB7-2
+Removed Member From Class: ClassName=Power_Driver_1 Member=CB5
+Removed Member From Class: ClassName=Power_Driver_2 Member=CB7

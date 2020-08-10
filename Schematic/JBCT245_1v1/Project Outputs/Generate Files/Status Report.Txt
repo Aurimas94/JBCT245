@@ -1,0 +1,10 @@
+Output: BOM_Purchase
+Type  : BOM
+From  : Variant [[No Variations]] of Project [T245_1v1.PrjPcb]
+   Generated File[BOM_Purchase-T245_1v1.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:38:35 AM On 5/16/2020

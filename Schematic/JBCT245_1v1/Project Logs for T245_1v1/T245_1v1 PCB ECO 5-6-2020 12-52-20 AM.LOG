@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetT245_Out_1_1 Pin=T245_Out_1-1
+Removed Pin From Net: NetName=AC_GND Pin=T245_Out_1-2
+Removed Pin From Net: NetName=TC_POS_1 Pin=T245_Out_1-4
+Removed Pin From Net: NetName=NetT245_Out_2_1 Pin=T245_Out_2-1
+Removed Pin From Net: NetName=AC_GND Pin=T245_Out_2-2
+Removed Pin From Net: NetName=TC_POS_2 Pin=T245_Out_2-4
+Removed Pin From Net: NetName=NetT245_Out_1_1 Pin=U3-3
+Removed Pin From Net: NetName=NetT245_Out_1_1 Pin=U3-4
+Removed Pin From Net: NetName=NetT245_Out_2_1 Pin=U6-3
+Removed Pin From Net: NetName=NetT245_Out_2_1 Pin=U6-4
+Removed Member From Class: ClassName=Power_Driver_1 Member=T245_Out_1
+Removed Member From Class: ClassName=Power_Driver_2 Member=T245_Out_2
+Added Component: Designator=P1(RPC1-12RB-6P(71))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1077728"; VariantName = "[No Variations]"
+Added Component: Designator=P2(RPC1-12RB-6P(71))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1077728"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AC_GND Pin=CB5-1
+Added Pin To Net: NetName=AC_GND Pin=CB7-1
+Added Pin To Net: NetName=AC_GND Pin=L3-1
+Added Pin To Net: NetName=AC_GND Pin=L5-1
+Added Pin To Net: NetName=TC_POS_1 Pin=P1-1
+Added Pin To Net: NetName=AC_GND Pin=P1-2
+Added Pin To Net: NetName=NetT245_Out_2_1 Pin=P1-5
+Added Pin To Net: NetName=TC_POS_2 Pin=P2-1
+Added Pin To Net: NetName=AC_GND Pin=P2-2
+Added Pin To Net: NetName=NetT245_Out_1_1 Pin=P2-5
+Added Pin To Net: NetName=NetT245_Out_2_1 Pin=U3-3
+Added Pin To Net: NetName=NetT245_Out_2_1 Pin=U3-4
+Added Pin To Net: NetName=NetT245_Out_1_1 Pin=U6-3
+Added Pin To Net: NetName=NetT245_Out_1_1 Pin=U6-4
+Change Net Name : Old Net Name=AC_GND New Net Name=TC_NEG_1
+Change Net Name : Old Net Name=NetT245_Out_1_1 New Net Name=NetP2_5
+Change Net Name : Old Net Name=NetT245_Out_2_1 New Net Name=NetP1_5
+Added Member To Class: ClassName=Power_Driver_1 Member=Component P1 6 Pin circular conn
+Added Member To Class: ClassName=Power_Driver_2 Member=Component P2 6 Pin circular conn
